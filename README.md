@@ -1,6 +1,13 @@
 # user_login
 
-A new Flutter project.
+A skeleton futter project that use Firebase for user authentication.
+This project has be tested to run well on iOS, Android and WEB.
+I have strugled to set this project, compile it and test it by myself.
+In order to save life who like me to use firebase with flutter, I decide to share this project.
+
+Import:
+If you want this to work, please finish Firebase configuration at first.
+replace the configuration file with yours.
 
 ## Getting Started
 
